@@ -1,0 +1,3 @@
+/Users/lun4/Documents/Programing/c/sdl2/src/build/CMakeFiles/main.dir
+/Users/lun4/Documents/Programing/c/sdl2/src/build/CMakeFiles/edit_cache.dir
+/Users/lun4/Documents/Programing/c/sdl2/src/build/CMakeFiles/rebuild_cache.dir

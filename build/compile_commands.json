@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/lun4/Documents/Programing/c/sdl2/src/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/Cellar/sdl2/2.32.6/include -g -std=gnu99 -arch arm64 -o CMakeFiles/main.dir/main.c.o -c /Users/lun4/Documents/Programing/c/sdl2/src/main.c",
+  "file": "/Users/lun4/Documents/Programing/c/sdl2/src/main.c",
+  "output": "CMakeFiles/main.dir/main.c.o"
+}
+]
